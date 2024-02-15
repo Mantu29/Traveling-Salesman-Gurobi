@@ -33,8 +33,8 @@ Follow the [Gurobi Documentation](https://www.gurobi.com/documentation/) for ins
 1. Clone the repository and navigate to it:
 
     ```bash
-    git clone https://github.com/your_username/TSP_Solver_Gurobi.git
-    cd TSP_Solver_Gurobi
+    git clone https://github.com/your_username/Traveling-Salesman-Gurobi.git
+    cd Traveling-Salesman-Gurobi
     ```
 
 2. (Optional) Set up a virtual environment and activate it.
